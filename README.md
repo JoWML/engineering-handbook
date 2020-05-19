@@ -23,8 +23,10 @@ When we discover bugs we triage the bug as soon as possible in the team most fit
 
 To help ensure we adhere to this agreement we have a dashboard showing inflow / resolution for the different platforms. In addition there is a weekly review of bugs older then 3 weeks to validate that the issues older are acted on in a timely manner. 
 
-### Crashes
+### Crashes/Errors
 
-Client crashes are tracked in Firebase by Crashlytics. We treat all crashes as bugs and prioritize it according to the bugs. Our aim is to be above **99.5%** crash rate.
+Crashes in the mobile apps are tracked in Firebase by Crashlytics. We treat all crashes as bugs and prioritize it according to the bugs. Our aim is to be above **99.5%** crash rate. If the Crash rate drops below **99.0%** it is considered an incident and shall be acted on with equal urgency.
 
-If the Crash rate drops below **99.0%** it is considered an incident and shall be acted on with equal urgency.
+Errors on the web [are tracked in Bugsnag](https://github.com/fishbrain/mykiss-web/blob/develop/docs/frontend-guidelines/error-monitoring.md). [The current SLOs for the web](https://github.com/fishbrain/mykiss-web/blob/develop/docs/frontend-guidelines/slos.md) are a release stability of **99.9%** and **99.9% Uptime** in a time window of 7 Days.
+
+For backend services, the majority report errors to Bugsnag (including Rutilus). [The current SLOs for backend](https://docs.google.com/document/d/1GdoIj4CzLlZlAJTS9rTE9jIH52GL61qM-Lk0MpiVvyY/edit?ts=5dde8264) are that the error rate should be **<0.005%** measured per controller per hour, and that we have an uptime of **>99.5**.
