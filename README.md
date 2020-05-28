@@ -6,8 +6,8 @@ We welcome feedback. Please make a pull request to suggest improvements or add c
 
 ## Sections
 
-- [Quality](./Quality/index.md)
-- [Fishway](./Fishway/index.md)
+- [Quality](./Quality/README.md)
+- [Fishway](./Fishway/README.md)
 
 ## On-Call
 
