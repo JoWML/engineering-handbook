@@ -26,7 +26,7 @@ Become members as part of the onboarding process. If this is not the case for yo
 	- #bugs
 	- #alerts
 
-If you frequently check any of these channels, you can consider yourself informed.
+If you frequently check these channels, you can consider yourself informed.
 
 ## On-Call
 
