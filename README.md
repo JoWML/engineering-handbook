@@ -2,7 +2,7 @@
 
 The Fishbrain engineering handbook is the central repository for how we run the engineering teams. As part of our value of being transparent the handbook we aim to publish these pages to make access easier for everyone.
 
-We welcome feedback. Please make a pull request to suggest improvements or add clarifications. Please use [issues](https://github.com/fishbrain/engineering-handbook/issues) to ask questions.
+We welcome feedback. Please make a [pull request](https://github.com/fishbrain/engineering-handbook/pulls) to suggest improvements or add clarifications. Please use [issues](https://github.com/fishbrain/engineering-handbook/issues) to ask questions.
 
 ## Sections
 
