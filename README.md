@@ -36,3 +36,7 @@ If you frequently check these channels, you can consider yourself informed.
 ## On-Call
 
 To scale our infrastructure we have a dev-ops culture including 24/7 support with rotating on-call. Conditions for this is documented in [Google Drive](https://docs.google.com/document/d/1vEP3QwE2EVNqQ6D7FjIIQAwhZe6pXnkfZQvt1vr7OAM/edit).
+
+## Support
+The Operations organisation is managing the customer support of our platform. To ensure we support them the best way possible there is a need for second line support. We have chosen to ensure the relevant team with the best knowledge are accountable to solve issues in there ownership. That way we constantly learn about the issues the customers are facing and we will be better at predicting and solve issues. 
+Sometimes the responsible team is not obvious or there might be more platform type. To ensure we give support the best working environment we have a 2'nd line support [scheduled here](https://docs.google.com/spreadsheets/d/1tC9VbKjVVTJ4tjPYrAh6sqvB5u41OkfmoxZp6PSICxY/edit#gid=0) that are monitoring the #bugs channel and ensure that all things brought up is addressed. Details on this and a best practices are collected in [this document](https://docs.google.com/document/d/1AIVFUZpUlZUJRqV2gM5-9XPuE4s2syeWYiAcK7CJggo/edit) When new information is gained that could help anyone else it is amended to the document. 
