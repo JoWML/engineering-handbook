@@ -43,7 +43,7 @@ When we have a incident it is important that we have a uniformed way of acting t
 For all incidents that is impacting our users it is important to share the information witin Fishbrain in a transperent way so we can be proactive and honest wit our users. Bigger incidents shall be shared in #everybody and minor ones in #support.
 
 ### Security incident
-We have a documented security incident responce plan that is used for any security and data incidents and details the work needed and the authorities that needs to be informed in [Google Drive] (https://docs.google.com/document/d/1H5CvNvs6YesRPdjf2KcP4Vz2Z7nmpNOnJm_XB2dBWSU/edit).
+We have a documented security incident response plan that is used for any security and data incidents and details the work needed and the authorities that needs to be informed in [Google Drive] (https://docs.google.com/document/d/1H5CvNvs6YesRPdjf2KcP4Vz2Z7nmpNOnJm_XB2dBWSU/edit).
 
 ### Backend failures
 We have a systems with automatic alarms for the systems we have and also monitoring to ensure we are availible for our users. Those monitors have different alert levels and those neccesery to act on imidiatly will ensure Pager Duty alert the on-call person. The On-call person is expected to ensure that the issue is taken care of.
