@@ -40,7 +40,7 @@ To scale our infrastructure we have a dev-ops culture including 24/7 support wit
 ## Incident management
 
 When we have a incident it is important that we have a uniformed way of acting to the incidents. This will reduce the load on the on-call person and ensure we do the right things at the time of the incident. If there is a incident it will be in the #alert channel in slack and all dialogs about ongoing incidents shall be held there. If there is a outage or another need to get the attention of the on-call person there is a slack command "/pd trigger" that will fire an manual alert. Note that if the alert needs to reach the CTO it is done through PagerDuty and can be done by anyone on-call.
-For all incidents that is impacting our users it is important to share the information witin Fishbrain in a transperent way so we can be proactive and honest wit our users. Bigger incidents shall be shared in #everybody and minor ones in #support.
+For all incidents that is impacting our users it is important to share the information within Fishbrain in a transparent way so we can be proactive and honest with our users. Bigger incidents shall be shared in Slack #everybody and minor ones in #support.
 
 ### Security incident
 We have a documented security incident response plan that is used for any security and data incidents and details the work needed and the authorities that needs to be informed in [Google Drive] (https://docs.google.com/document/d/1H5CvNvs6YesRPdjf2KcP4Vz2Z7nmpNOnJm_XB2dBWSU/edit).
