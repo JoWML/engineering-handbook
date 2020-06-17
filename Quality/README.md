@@ -6,14 +6,14 @@ Quality is everyone's responsibility! Everything you merge to master should be p
 
 We shall treat quality as an important part of our product and shall therefore act accordingly. In addition we shall set clear expectations on resolutions on issues and not have issues in the backlog for an extended period of time. Therefore we adhere to a “zero bug” policy.
 When we discover bugs we triage the bug as soon as possible in the team most fitted to evaluate customer impact of the issue. If customer impact is unclear it is the Product Manager’s role to decide on the severity of the issue.
-- **Critical issue:**
+- **Critical issue: (Highest in JIRA)**
 	Stop current work and attend the issue expeditly.
 - **High impact issue:**
 	Plan the work coming week or as soon as possible without the intrution of a “drop everything”.
 - **Medium impact issue:**
 	Plan the work within the coming three weeks and solve the issue.
 - **Low impact issue:**
-	Close the issue as we will not be able to prioritize low impact issues. Repeat the process if and when the same bug appear in the future.
+	Close the issue or mark as "lowest" in JIRA for notes for when we refactor the code anyways, we are not able to prioritize low impact issues and shall be viewed as acceptable user experience. Repeat the process if and when the same bug appear in the future.
 
 To help ensure we adhere to this agreement we have a dashboard in [JIRA](https://fishbrain.atlassian.net/secure/Dashboard.jspa?selectPageId=10206) . In addition there is a weekly review of bugs older then 3 weeks to validate that the issues older are acted on in a timely manner and assigning issues where the team is not set.
 
