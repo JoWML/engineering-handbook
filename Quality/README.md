@@ -3,7 +3,7 @@
 Quality is everyone's responsibility! Everything you merge to master should be production ready.
 
 Appstore/Playstore reviews is the most important factor of the impression of our product and quality is mirroring those numbers. 
-As a company we are striving for always reaching a score of **4.5** and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable solutions to the users.
+As a company we are striving for always reaching a score of **4.5** and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable functionality to the users.
 
 
 ### Zero bug policy
