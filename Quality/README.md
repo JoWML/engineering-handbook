@@ -6,7 +6,7 @@ Quality is everyone's responsibility! Everything you merge to master should be p
 
 We shall treat quality as an important part of our product and shall therefore act accordingly. In addition we shall set clear expectations on resolutions on issues and not have issues in the backlog for an extended period of time. Therefore we adhere to a “zero bug” policy.
 When we discover bugs we triage the bug as soon as possible in the team most fitted to evaluate customer impact of the issue. If customer impact is unclear it is the Product Manager’s role to decide on the severity of the issue.
-- **Critical issue: (Highest in JIRA)**
+- **Critical issue:**
 	Stop current work and attend the issue expeditly.
 - **High impact issue:**
 	Plan the work coming week or as soon as possible without the intrution of a “drop everything”.
