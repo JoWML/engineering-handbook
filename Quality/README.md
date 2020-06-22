@@ -17,16 +17,28 @@ When we discover bugs we triage the bug as soon as possible in the team most fit
 
 To help ensure we adhere to this agreement we have a dashboard in [JIRA](https://fishbrain.atlassian.net/secure/Dashboard.jspa?selectPageId=10206) . In addition there is a weekly review of bugs older then 3 weeks to validate that the issues older are acted on in a timely manner and assigning issues where the team is not set.
 
-### Crashes/Errors
+### Crashes/Errors 
+- Mobile apps
 
 Crashes in the mobile apps are tracked in Firebase by Crashlytics. We treat all crashes as bugs and prioritize it according to the bugs. Our aim is to be above **99.5%** crash rate. If the Crash rate drops below **99.0%** it is considered an incident and shall be acted on with equal urgency.
 
+- Web app
+
 Errors on the web [are tracked in Bugsnag](https://github.com/fishbrain/mykiss-web/blob/develop/docs/frontend-guidelines/error-monitoring.md). [The current SLOs for the web](https://github.com/fishbrain/mykiss-web/blob/develop/docs/frontend-guidelines/slos.md) are a release stability of **99.9%** and **99.9% Uptime** in a time window of 7 Days.
+
+- Backend
 
 For backend services, the majority report errors to Bugsnag (including Rutilus). [The current SLOs for backend](https://docs.google.com/document/d/1GdoIj4CzLlZlAJTS9rTE9jIH52GL61qM-Lk0MpiVvyY/edit?ts=5dde8264) are that the error rate should be **<0.005%** measured per controller per hour, and that we have an uptime of **>99.5**.
 
-### Appstore reviews
+### Loading times
 
-Appstore/Playstore reviews are a important part of the impression of our product and quality have a big impact on those numbers. We are striving for always reaching a score of 4.5 and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable solutions to the users.
+- Mobile apps
+
+Both [Google](https://developer.android.com/topic/performance/vitals/launch-time) and Apple [1](https://developer.apple.com/documentation/xcode/improving_your_app_s_performance/reducing_your_app_s_launch_time),[2](https://developer.apple.com/videos/play/wwdc2016/406/) provide with guidelines around app startup time. We are striving towards following the best practices and keeping loading times below the thresholds provided by the respective platforms.
+
+
+### Appstore/Playstore reviews
+
+Appstore/Playstore reviews are a important part of the impression of our product and quality have a big impact on those numbers. We are striving for always reaching a score of **4.5** and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable solutions to the users.
 
 [Back to index](./../README.md)
