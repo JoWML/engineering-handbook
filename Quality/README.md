@@ -37,6 +37,23 @@ For backend services, the majority report errors to Bugsnag (including Rutilus).
 Both [Google](https://developer.android.com/topic/performance/vitals/launch-time) and Apple [1](https://developer.apple.com/documentation/xcode/improving_your_app_s_performance/reducing_your_app_s_launch_time),[2](https://developer.apple.com/videos/play/wwdc2016/406/) provide with guidelines around app startup time. We are striving towards following the best practices and keeping loading times below the thresholds provided by the respective platforms.
 Metrics around app loading times exist [here for Android](https://play.google.com/apps/publish/?account=8673675864021351303#AppHealthOverviewPlace:p=com.fishbrain.app&appid=4973867529686371805&aho=APP_HEALTH_DETAILS&ts=THIRTY_DAYS&ahbt=_CUSTOM). For iOS we are printing metrics in every run.
 
+### Network performance
+
+- Mobile apps
+
+Firebase offers statistics around network performance of mobile clients and this is what we are tracking from the mobile apps side. Here is [Android](https://console.firebase.google.com/project/fishbrain.com:api-project-10207772235/performance/app/android:com.fishbrain.app/network) and here is [iOS](https://console.firebase.google.com/project/fishbrain.com:api-project-10207772235/performance/app/ios:com.fishbrain.app/network)
+
+
+- Web
+
+TBD
+
+
+- Backend
+
+TBD
+
+
 
 ### Appstore/Playstore reviews
 
