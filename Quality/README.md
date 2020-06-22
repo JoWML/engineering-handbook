@@ -2,6 +2,10 @@
 
 Quality is everyone's responsibility! Everything you merge to master should be production ready.
 
+Appstore/Playstore reviews is the most important factor of the impression of our product and quality is mirroring those numbers. 
+As a company we are striving for always reaching a score of **4.5** and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable solutions to the users.
+
+
 ### Zero bug policy
 
 We shall treat quality as an important part of our product and shall therefore act accordingly. In addition we shall set clear expectations on resolutions on issues and not have issues in the backlog for an extended period of time. Therefore we adhere to a “zero bug” policy.
@@ -53,10 +57,5 @@ TBD
 
 TBD
 
-
-
-### Appstore/Playstore reviews
-
-Appstore/Playstore reviews are a important part of the impression of our product and quality have a big impact on those numbers. We are striving for always reaching a score of **4.5** and if we are going below that number we need to increase the quality and customer focus ensuring that we are providing valuable solutions to the users.
 
 [Back to index](./../README.md)
