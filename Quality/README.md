@@ -61,7 +61,7 @@ TBD
 
 We are striving towards high quality in the Fishbrain app as a whole. However some core areas of the app have a significant value for the user experience in Fishbrain.
 
-The quality in those areas is prioritised and tested continuously for every new version of the apps through the UATs for both apps
+The quality in those areas is prioritised and tested continuously for every new version of the apps through the [UATs](https://github.com/fishbrain/engineering-handbook/blob/quality/UAT/Quality/UAT.md) for both apps
 - Account creation / Login
 - Pro benefits
 - New catches/Posts and their privacy
