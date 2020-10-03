@@ -59,4 +59,7 @@ We are constantly monitoring the crash rate for our mobile apps and aim at havin
 
 ### Post Mortems
 
-The person on-call or responsible to follow the incident is also responsible to ensure there is a post mortem of the incident after the urgent actions are taken. The point of the post mortem is to learn about what happened, share information, collect root causes for the issues, mitigate those, and make our way of working more resilient. We document all post mortems in [Google Drive] 
+The person on-call or responsible to follow the incident is also responsible to ensure there is a post mortem of the incident after the urgent actions are taken. The point of the post mortem is to learn about what happened, share information, collect root causes for the issues, mitigate those, and make our way of working more resilient. We document all post mortems in [Google Drive]
+
+## Support
+The support team manages the customer support of our platform. To ensure that we assist them in the best way possible, a second line of support is in place. We have a weekly rotation of product teams and the assigned team has the responsibility to ensure the relevant team or group of engineers respond to any given issue and provide insight and help to get it fixed. The rotation of teams can be found [here].(https://docs.google.com/spreadsheets/d/1tC9VbKjVVTJ4tjPYrAh6sqvB5u41OkfmoxZp6PSICxY/edit#gid=0) Best practices and other details are covered in [this document](https://docs.google.com/document/d/1AIVFUZpUlZUJRqV2gM5-9XPuE4s2syeWYiAcK7CJggo/edit). We are all responsible for keeping this document up to date.
