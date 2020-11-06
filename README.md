@@ -9,7 +9,6 @@ We welcome feedback. Please make a [pull request](https://github.com/fishbrain/e
 - [Quality](./Quality/README.md)
 - [Fishway](./Fishway/README.md)
 
-
 ## Keeping yourself informed
 
 * Email lists
@@ -56,5 +55,15 @@ We are constantly monitoring the crash rate on our mobile apps and aim at havein
 The person on-call or responsible to follow the incident is also responsible to ensure there is a post mortem of the incident after the urgent actions are taken. The point of the Post Mortem is to learn about what happened, share information, collect root causes for the issues, mitigate those, and make our way of working more resilient. We document all Post Mortems in [Google Drive] (https://drive.google.com/drive/folders/1VnXIj-JBJ3vFrclG8F6bHH0LJwH4Sh7g).
 
 ## Support
-The Support organisation is managing the customer support of our platform. To ensure we support them the best way possible there is a need for second line support. We have chosen to ensure the relevant team with the best knowledge are accountable to solve issues in there ownership. That way we constantly learn about the issues the customers are facing and we will be better at predicting and solve issues. 
-Sometimes the responsible team is not obvious or there might be more platform type. To ensure we give support the best working environment we have a 2'nd line support [scheduled here](https://docs.google.com/spreadsheets/d/1tC9VbKjVVTJ4tjPYrAh6sqvB5u41OkfmoxZp6PSICxY/edit#gid=0) that are monitoring the #bugs channel and ensure that all things brought up is addressed. Details on this and a best practices are collected in [this document](https://docs.google.com/document/d/1AIVFUZpUlZUJRqV2gM5-9XPuE4s2syeWYiAcK7CJggo/edit) When new information is gained that could help anyone else it is amended to the document. 
+The Support organisation is managing the customer support of our platform. To ensure we support them the best way possible there is a need for second line support. We have chosen to ensure the relevant team with the best knowledge are accountable to solve issues in their ownership. That way we constantly learn about the issues the customers are facing and we will be better at predicting and solve issues.
+Sometimes the responsible team is not obvious or there might be more platform type. To ensure we give support the best working environment we have a 2'nd line support [scheduled here](https://docs.google.com/spreadsheets/d/1tC9VbKjVVTJ4tjPYrAh6sqvB5u41OkfmoxZp6PSICxY/edit#gid=0) that are monitoring the #bugs channel and ensure that all things brought up is addressed. Details on this and a best practices are collected in [this document](https://docs.google.com/document/d/1AIVFUZpUlZUJRqV2gM5-9XPuE4s2syeWYiAcK7CJggo/edit) When new information is gained that could help anyone else it is amended to the document.
+
+## Contributing to the Engineering handbook
+
+The Engineering Handbook is maintained by the Engineering Manager team, but anyone at Fishbrain is
+welcome to contribute. To add your changes, create a PR and assign 2 engineering managers to review
+it. If you'd like to suggest changes privately you can contact the EM team at <eng-managers@fishbrain.com>
+or directly via Slack.
+
+**It is important to note that this repository is public, so make sure that your contributions do
+not expose any sensitive information.**
