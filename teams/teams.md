@@ -7,6 +7,7 @@ At Fishbrain, we work in purpose filled teams with their own objectives and goal
 
 ## Team Social
 
+The Social team is responsible for connecting anglers on the platform, and engagement driving features. Primary caretaker of the Feed, Discover, Stories, Interactions (likes, comments, and messaging), Videos, Posts and Groups. Various functions to maintain community integrity is also a core responsibility for Social team.
 
 
 ## Team Utility
