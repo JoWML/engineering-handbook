@@ -15,7 +15,7 @@ The team responsible for helping our users find and catch bigger fish. We enable
 
 
 ## Team Platform
-
+The platform team owns infrastructure and developer happiness. This includes but not limited to; Infrastructure configuration and monitoring, CI/CD pipelines and general tooling as well as hands on support. In addition to that we try to make sure being on-call is as hassle free as it can be, and in case of incidents we make sure there is a post mortem scheduled.
 
 
 ## Team OX
