@@ -17,6 +17,9 @@ The team responsible for helping our users find and catch bigger fish. We enable
 ## Team Platform
 The platform team owns infrastructure and developer happiness. This includes but not limited to; Infrastructure configuration and monitoring, CI/CD pipelines and general tooling as well as hands on support. In addition to that we try to make sure being on-call is as hassle free as it can be, and in case of incidents we make sure there is a post mortem scheduled.
 
+## Team Gear
+The Gear Team is responsible for managing gear data and features related to anglers' engagement with gear such as maintaining their in-app tacklebox or tagging gear in catches or posts. The Gear Team is also currently responsible for the in-app shop. The Gear Team also provide second-line support to the Commerce Operations team assisting with the onboarding of brands onto the marketplace.
+
 
 ## Team OX
 
